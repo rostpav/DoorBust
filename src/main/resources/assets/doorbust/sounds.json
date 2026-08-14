@@ -1,0 +1,12 @@
+{
+  "door_bust": {
+    "category": "block",
+    "subtitle": "subtitles.doorbust.door_bust",
+    "sounds": [
+      {
+        "name": "minecraft:entity.zombie.attack_wooden_door",
+        "type": "event"
+      }
+    ]
+  }
+}
